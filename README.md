@@ -1,0 +1,1 @@
+### Local library website according to [Django tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) from Mozilla 
